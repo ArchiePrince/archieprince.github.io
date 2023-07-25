@@ -4,19 +4,15 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Prince Acheampong works as a system administrator, researcher, and educator, in the field of cybersecurity.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Prince, who graduated from the University of Cape Coast as the best student
+	in the Department of Computer Science and Information Technology, was chosen
+	by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) Ghana as
+	an IT Support Specialist to assist in the IT implementation processes of projects
+	in Ghana due to his exceptional IT problem-solving abilities.</p>
+
+<p>Prince spends his days providing IT Security Advisory to the Resilience Against Climate Change (REACH) project's implementation, such as setting up a district data infrastructure for the Metropolitan, Municipal, and District Assemblies and managing IT systems. He spends the night tearing apart boxes and protecting small businesses from cyberattacks while also coordinating technical issues concerning technology, procedures, and user security. Prince uses a cloud infrastructure for his training and enjoys using TryHackMe, HackTheBox, and other platforms that replicate real-world security breaches.</p>
 
 <h2>Skills</h2>
 
