@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
-<script src="https://tryhackme.com/badge/1621112"></script>
+<center><script src="https://tryhackme.com/badge/1621112"></script></center>
 
 
 <p>Prince Acheampong works as a system administrator, researcher, and educator, in the field of cybersecurity.</p>
