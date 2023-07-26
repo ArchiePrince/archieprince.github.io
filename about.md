@@ -7,7 +7,7 @@ layout: page
 <p>Prince Acheampong works as a system administrator, researcher, and educator, in the field of cybersecurity.</p>
 
 <p>Prince, who graduated from the University of Cape Coast as the best student
-	in the Department of Computer Science and Information Technology, was chosen
+	in the Department of Computer Science and Information Technology, was recognized
 	by the Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) Ghana as
 	an IT Support Specialist to assist in the IT implementation processes of projects
 	in Ghana due to his exceptional IT problem-solving abilities.</p>
@@ -17,7 +17,7 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>System Administration and Management - Ubuntu Linux, Apache, Kali Linux, Windows Server</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
