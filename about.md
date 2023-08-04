@@ -21,7 +21,10 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>System Administration and Management - Ubuntu Linux, Apache, Kali Linux, Windows Server</li>
+	<li>System Administration and Management</li>
+ 	<ul>
+		<li>- Ubuntu Linux, Apache, Kali Linux, Windows Server</li>
+	</ul>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
