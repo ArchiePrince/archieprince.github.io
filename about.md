@@ -16,8 +16,9 @@ layout: page
 
 <p>Now, Prince spends his days giving support in the management and administration of IT systems and providing IT Security Advisory to the Resilience Against Climate Change (REACH) project's implementation, co-funded by European Union and implemented by GIZ, such as setting up a district data infrastructure for the Metropolitan, Municipal, and District Assemblies and managing IT systems. He spends the night tearing apart boxes and protecting small businesses from cyberattacks while also coordinating technical issues concerning technology, procedures, and user security.</p>
 
-<p>Prince uses a cloud infrastructure for his training and enjoys using <a href="https://tryhackme.com/p/r0b0t4rch">TryHackMe</a>, <a href="https://www.hackthebox.com/">HackTheBox</a>, and other platforms that replicate real-world security breaches.</p>
+<p>Prince uses a cloud infrastructure for his training and enjoys using <a href="https://tryhackme.com/p/r0b0t4rch">TryHackMe</a>, <a href="https://www.hackthebox.com/">HackTheBox</a>, LetsDefend and other platforms that replicate real-world security breaches.</p>
 
+<!--
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -46,3 +47,4 @@ layout: page
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
+-->
