@@ -18,7 +18,7 @@ dark-theme: true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/images/prince-acheampong-cv.pdf
 
 url: https://archieprince.github.io
 # your url: https://USERNAME.github.io
