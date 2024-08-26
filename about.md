@@ -24,23 +24,34 @@ layout: page
 <h2>Experience:</h2>
 
 <ul class="skill-list">
-	<li>System Administration and Management</li>
- 	<ul>
-		<li>- Ubuntu Linux, Apache, Kali Linux, Windows Server</li>
-	</ul>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Worked as an IT Specialist for GIZ Ghana, implementing and improving information security practices.</li>
+	<li>Conducted penetration testing for various clients, identifying and exploiting vulnerabilities in web applications, APIs, networks, and Active Directory.</li>
+	<li>Served as a Cybersecurity Administrator and Analyst for CodersWhoTravel Inc., performing web application security testing, vulnerability assessments, and system administration tasks</li>
 </ul>
+
+<h2>Technical Skills:</h2>
+
+<ul class="skill-list">
+	<li>WProficient in penetration testing methodologies and tools like Nmap, Burp Suite, SQLmap, etc.</li>
+	<li>Experienced in web application security, network security, incident response, and vulnerability assessment.</li>
+	<li>Skilled in system administration, including Linux servers and Microsoft products.</li>
+</ul>
+
+<h2>Education and Certifications:</h2>
+
+<ul class="skill-list">
+	<li>Holds a BSc. Information Technology from the University of Cape Coast.</li>
+	<li>Earned certifications like CompTIA Security+, Certified in Cybersecurity (ISC2), and CRITAC ACM Professional.</li>
+</ul>
+
+<h2>Research:</h2>
+
+<ul class="skill-list">
+	<li>Currently researching ways to strengthen web application firewall (WAF) security and privacy at the ACM - CRITAC Chapter.</li>
+	<li>Previously conducted research on the implementation of information security management systems and music information retrieval systems.</li>
+</ul>
+
+<p>Overall, Prince Acheampong is a highly skilled and experienced cybersecurity professional with a strong educational background and a passion for research.</p>
 <!--
 <h2>Skills</h2>
 
