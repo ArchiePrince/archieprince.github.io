@@ -18,6 +18,29 @@ layout: page
 
 <p>Prince uses a cloud infrastructure for his training and enjoys using <a href="https://tryhackme.com/p/r0b0t4rch">TryHackMe</a>, <a href="https://www.hackthebox.com/">HackTheBox</a>, LetsDefend and other platforms that replicate real-world security breaches.</p>
 
+<p> Here are some key highlights from his profile:
+</p>
+
+<h2>Experience:</h2>
+
+<ul class="skill-list">
+	<li>System Administration and Management</li>
+ 	<ul>
+		<li>- Ubuntu Linux, Apache, Kali Linux, Windows Server</li>
+	</ul>
+	<li>Responsive (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
+	<li>Git</li>
+	<li>PHP</li>
+	<li>Python</li>
+	<li>MySQL - MongoDB</li>
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
+</ul>
 <!--
 <h2>Skills</h2>
 
